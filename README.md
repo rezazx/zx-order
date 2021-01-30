@@ -1,7 +1,10 @@
 # zx-order 
-یک پروژه شخصی برای ثبت سفارش پروژه در وبسایت خودم به نشانی :
+A personal project to place a project order on my website at:
 [MRZX.ir](https://mrzx.ir)
 
-# ویژگی ها 
-در این پروژه یک پلاگین با زبان php برای ورد پرس طراحی شده است
-که از ویژگی های ان میتوان به فولود view اشاره کرد که تمپلیت های مربط به سمت کلاینت با استفاده از ReactJs پیاده سازی شده است.
+# Attributes
+In this project, a plugin with php language has been designed for WordPress.
+
+Features include Folder view/public, which templates related to the client are implemented using ReactJs.
+
+The information recorded by the user is emailed to me and also stored in a table in the database.
